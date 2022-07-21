@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: #e7e8ea4c;
+}
+
+header{
+    font-size:100%;
+    font-family: Garamond;
+    border: 1.5px solid rgba(18, 14, 72, 0.836);
+    border-radius: 100px;
+    margin:auto;
+    width: 500px;
+    text-align: center;
+}
+
+header.scroll{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 180px;
+    font-family: 'Times New Roman';
+    width: 1240px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    padding: 100px 40px 400px;
+    text-align: left;
+    background: url(../image/uranus.imge.jpg) no-repeat right center/cover;
+      
+}
+
+li{
+    color: midnightblue;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,79 @@
+
+@charset "UTF-8";
+
+body {
+    background-color: #e7e8ea4c;
+}
+
+header{
+    font-size:100%;
+    font-family: Garamond;
+    border: 1.5px solid rgba(18, 14, 72, 0.836);
+    border-radius: 100px;
+    margin:auto;
+    width: 500px;
+    text-align: center;
+}
+
+header.scroll{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+
+}
+h2 {
+    color: #ffffff;
+    font-size: 180px;
+    font-family: 'Times New Roman';
+    width: 1240px;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    padding: 100px 40px 400px;
+    text-align: left;
+    background: url(../image/star.sky.jpg) no-repeat right center/cover;
+      
+}
+
+
+h3{
+    font-size: 20px;
+    font-family: 'Shippori Mincho', serif;
+    border: 1px solid midnightblue;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+
+ol{
+    color: rgb(190, 34, 34);   
+}
+
+h4{
+    font-size: 20px;
+    font-family: 'Shippori Mincho', serif;
+    border: 1px solid midnightblue;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    color:black ;
+    margin-top: auto;
+}
+
+ul{
+    font-family: 'Shippori Mincho', serif; 
+}
+
+
+
+
+.main{
+    
+    background-color:#ffffff;
+}
+
+.sub{
+    background-color: #ffffff;
+}
